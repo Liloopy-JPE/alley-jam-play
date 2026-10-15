@@ -8,6 +8,7 @@ There are no CC-BY-NC, no unclear licenses and no CC-BY files.
 |---|---|---|---|
 | Kenney SFX (rim clank, bank, backboard rattle, shove, block, menu move/select, dunk slam*) | 8 | CC0-1.0 | kenney.nl Impact Sounds / Interface Sounds |
 | Self-synthesized SFX (dribble, release, swish, short, pass, crossover, turbo, fire, buzzer, tip sting, steal, rim-out) | 12 | CC0-1.0 (own work) | `/workspace/audio-src/synth/make_sfx.py` (numpy) |
+| Self-synthesized level-up chime (Level Up mode) | 1 | CC0-1.0 (own work) | `/workspace/audio-src/synth/make_levelup.py` (numpy) |
 | Self-synthesized crowd (ambience loop, cheer, big cheer) | 3 | CC0-1.0 (own work) | same script |
 | Announcer voice lines | 47 | Public Domain | Piper TTS, `en_US-norman-medium` voice |
 

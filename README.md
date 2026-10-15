@@ -4,6 +4,10 @@ Play in your browser: https://liloopy-jpe.github.io/alley-jam-play/
 
 Four 2:00 quarters, you (Rex) + Mira vs the Harbor Wolves. Sound starts after your first click or key press.
 
+**Modes** (title screen → MODE, or A/D when MODE is selected):
+- **Level Up** (default): everyone starts at SPD/PWR/DXT 5 and earns levels during the match — shots and jukes raise DXT, dunks and blocks raise PWR, fast breaks and turbo raise SPD. Catch-up XP and per-quarter caps keep it fair.
+- **Classic**: fixed maxed ratings (all 10). Same game feel as earlier builds.
+
 ## Controls
 | Key | Action |
 |---|---|
